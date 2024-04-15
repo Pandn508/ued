@@ -1,0 +1,16 @@
+{
+  "name": "preset",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "build": "unbuild"
+  },
+  "keywords": [
+    "unocss",
+    "unocss-preset",
+    "ued"
+  ],
+  "author": "",
+  "license": "ISC"
+}

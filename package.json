@@ -1,0 +1,23 @@
+{
+  "name": "ued-preset",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@unocss/core": "^0.59.2",
+    "@unocss/rule-utils": "^0.59.2",
+    "preset": "workspace:^",
+    "typescript": "^5.4.5",
+    "unbuild": "^2.0.0",
+    "unocss": "^0.59.1",
+    "vitepress": "^1.1.0",
+    "vitest": "^1.5.0"
+  }
+}
