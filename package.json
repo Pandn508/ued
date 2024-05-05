@@ -19,6 +19,7 @@
     "@unocss/rule-utils": "^0.57.1",
     "@unocss/vite": "^0.57.1",
     "@vitejs/plugin-vue": "^5.0.4",
+    "element-plus": "^2.7.2",
     "preset": "workspace:^",
     "typescript": "^5.4.5",
     "unbuild": "^2.0.0",
