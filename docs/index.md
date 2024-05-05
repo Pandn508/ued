@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /guild/installation
+      link: /examples/installation
     - theme: alt
       text: 在 Gitee 上查看
       link: https://gitee.com/geeksdidi/kittyui

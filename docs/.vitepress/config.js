@@ -10,51 +10,27 @@ module.exports = {
   },
   themeConfig: {
     nav: [
-      { text: "指南", link: "/guild/installation.md" },
-      { text: "组件", link: "/examples/rules/color" },
+      // { text: "指南", link: "/guild/installation.md" },
+      { text: "组件", link: "/examples/installation" },
     ],
     // socialLinks: [{ icon: "github", link: "https://gitee.com/geeksdidi" }],
     sidebar: {
-      "/guild/": [
+      "/examples/": [
         {
           text: "基础",
           items: [
             {
               text: "安装",
-              link: "/guild/installation",
+              link: "/examples/installation",
             },
             {
-              text: "快速开始",
-              link: "/guild/quickstart",
+              text: "规则汇总",
+              link: "/examples/quickstart",
             },
           ],
         },
-        // {
-        //   text: "进阶",
-        //   items: [
-        //     {
-        //       text: "xx",
-        //       link: "/xx",
-        //     },
-        //   ],
-        // },
-      ],
-      "/examples/": [
-        // {
-        //   text: "基础组件",
-        //   items: [
-        //     {
-        //       text: "Button按钮",
-        //       link: "/examples/button/",
-        //     },
-        //     {
-        //       text: "Icon图标",
-        //       link: "/examples/Icon/",
-        //     },
-        //   ],
-        // },
         {
-          text: "规则",
+          text: "样例",
           items: [
             {
               text: "color",
